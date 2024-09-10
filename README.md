@@ -58,11 +58,6 @@ sudo docker rmi -f ubuntu
 
 ## How to Use the Scripts
 
-### Manual Work:
-sudo docker pull ubuntu
-sudo docker save -o /media/thriambakesvar/0EAA-170B/ubuntu_old.tar ubuntu
-sudo docker rmi -f ubuntu
-
 ### 1. Make the Scripts Executable
 
 Change permissions to make the scripts executable:
